@@ -2,7 +2,6 @@
 - 👀 I’m interested in study proggraming
 - 🌱 I’m currently learning javascript
 - 📫 You can't contact me
-- Thanks!!
 
 <!---
 CaaziExe/CaaziExe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
